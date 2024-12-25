@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Procurement
+- 🔭 I’m currently working on Procurement.
 - 🌱 I’m currently learning Software Engineering.
 
 <!--
